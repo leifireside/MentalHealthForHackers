@@ -1,0 +1,4 @@
+- [ ] One-sentence "pitch.md"
+- [ ] Outline.md
+- [ ] 00-Introduction.md
+- [ ] TBD
